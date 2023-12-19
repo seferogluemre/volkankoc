@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm volkan, a computer teacher and freelance developer</div>  
+### <div align="center">I'm volkan</div>  
   
 
 - 🔭 I’m currently working on c#  and  flutter  
